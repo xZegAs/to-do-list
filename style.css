@@ -1,0 +1,26 @@
+body {
+    background: radial-gradient(circle at 50%, #333 5%, #333 5%, #191818 90%);
+    color: white;
+}
+.data {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+td, th {
+    padding: 25px;
+}
