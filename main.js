@@ -25,7 +25,7 @@ addItem.addEventListener('click', () => {
             <td>${i.url}</td>
             <td class="btns">
                     <button id="update">Update</button>
-                    <button id="delete" onclick="${deleteItems(index)}">Delete</button>
+                    <button id="delete">Delete</button>
             </td>
         </tr>
         `;
